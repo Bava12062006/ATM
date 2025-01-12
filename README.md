@@ -7,3 +7,5 @@
 **INTERN ID**:CS24NY361101
 
 **DOMAIN NAME**:JAVA PROGRAMMING
+
+**OUTPUT**:https://github.com/Bava12062006/ATM/issues/1#issue-2782355273
